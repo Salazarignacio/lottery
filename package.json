@@ -1,0 +1,20 @@
+{
+  "name": "lottery",
+  "version": "0.0.1",
+  "description": "App de sorteos por terminal",
+  "main": "index.js",
+  "repository": "",
+  "author": "Ignacio",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc --watch"
+  },
+  "dependencies": {
+    "inquirer": "^10.1.8",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^8.2.10",
+    "@types/lodash": "^4.17.7"
+  }
+}
